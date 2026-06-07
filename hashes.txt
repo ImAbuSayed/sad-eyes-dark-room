@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sad Eyes Dark Room
+
+This log tracks the cryptographic history and versioning for the song **Sad Eyes Dark Room** (sad-eyes-dark-room).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T13:54:33.016976 | `v1` | `` | `a316ed665091dcd412faae3bc65fde054e98173531d8183b8c5cbebfabb0642b` | `2026-06-07_sad-eyes-dark-room-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
